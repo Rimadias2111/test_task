@@ -1,0 +1,8 @@
+.env
+
+/myapp
+*.exe
+*.out
+*.log
+*.db
+*.idea
